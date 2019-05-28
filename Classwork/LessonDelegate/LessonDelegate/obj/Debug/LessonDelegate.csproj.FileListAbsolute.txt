@@ -1,0 +1,23 @@
+G:\Team Drives\P108\Lessons\Programming in C#\14-November-2018-483-Module-04-05\LessonDelegate\LessonDelegate\bin\Debug\LessonDelegate.exe.config
+G:\Team Drives\P108\Lessons\Programming in C#\14-November-2018-483-Module-04-05\LessonDelegate\LessonDelegate\bin\Debug\LessonDelegate.exe
+G:\Team Drives\P108\Lessons\Programming in C#\14-November-2018-483-Module-04-05\LessonDelegate\LessonDelegate\bin\Debug\LessonDelegate.pdb
+G:\Team Drives\P108\Lessons\Programming in C#\14-November-2018-483-Module-04-05\LessonDelegate\LessonDelegate\obj\Debug\LessonDelegate.csprojAssemblyReference.cache
+G:\Team Drives\P108\Lessons\Programming in C#\14-November-2018-483-Module-04-05\LessonDelegate\LessonDelegate\obj\Debug\LessonDelegate.csproj.CoreCompileInputs.cache
+G:\Team Drives\P108\Lessons\Programming in C#\14-November-2018-483-Module-04-05\LessonDelegate\LessonDelegate\obj\Debug\LessonDelegate.exe
+G:\Team Drives\P108\Lessons\Programming in C#\14-November-2018-483-Module-04-05\LessonDelegate\LessonDelegate\obj\Debug\LessonDelegate.pdb
+C:\Users\mihaRik\Desktop\Classwork\LessonDelegate\LessonDelegate\bin\Debug\LessonDelegate.exe.config
+C:\Users\mihaRik\Desktop\Classwork\LessonDelegate\LessonDelegate\bin\Debug\LessonDelegate.exe
+C:\Users\mihaRik\Desktop\Classwork\LessonDelegate\LessonDelegate\bin\Debug\LessonDelegate.pdb
+C:\Users\mihaRik\Desktop\Classwork\LessonDelegate\LessonDelegate\obj\Debug\LessonDelegate.csprojAssemblyReference.cache
+C:\Users\mihaRik\Desktop\Classwork\LessonDelegate\LessonDelegate\obj\Debug\LessonDelegate.csproj.CoreCompileInputs.cache
+C:\Users\mihaRik\Desktop\Classwork\LessonDelegate\LessonDelegate\obj\Debug\LessonDelegate.exe
+C:\Users\mihaRik\Desktop\Classwork\LessonDelegate\LessonDelegate\obj\Debug\LessonDelegate.pdb
+C:\Users\mihaRik\Desktop\homework\Classwork\LessonDelegate\LessonDelegate\bin\Debug\LessonDelegate.exe.config
+C:\Users\mihaRik\Desktop\homework\Classwork\LessonDelegate\LessonDelegate\bin\Debug\LessonDelegate.exe
+C:\Users\mihaRik\Desktop\homework\Classwork\LessonDelegate\LessonDelegate\bin\Debug\LessonDelegate.pdb
+C:\Users\mihaRik\Desktop\homework\Classwork\LessonDelegate\LessonDelegate\obj\Debug\LessonDelegate.csprojAssemblyReference.cache
+C:\Users\mihaRik\Desktop\homework\Classwork\LessonDelegate\LessonDelegate\obj\Debug\LessonDelegate.csproj.CoreCompileInputs.cache
+C:\Users\mihaRik\Desktop\homework\Classwork\LessonDelegate\LessonDelegate\obj\Debug\LessonDelegate.exe
+C:\Users\mihaRik\Desktop\homework\Classwork\LessonDelegate\LessonDelegate\obj\Debug\LessonDelegate.pdb
+C:\Users\mihaRik\Desktop\homework\Classwork\LessonDelegate\LessonDelegate\obj\Debug\LessonDelegate.Form1.resources
+C:\Users\mihaRik\Desktop\homework\Classwork\LessonDelegate\LessonDelegate\obj\Debug\LessonDelegate.csproj.GenerateResource.cache

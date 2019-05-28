@@ -1,0 +1,12 @@
+Text-rendering:
+  1)CSS
+  2)SVG
+Eslinde CSS de text-rendering yoxdu amma Gecko/WebKit/Blink tool-lari CSS-de istifade etmeke imkan verir.
+Ikiside bele value-ler gebul edirler:
+-optimizeSpeed;
+-optimizeLegibility;
+-geometricPrecision;
+Secdiyimiz value-dan asili olaraq biz browser-in engine-nina text-i hemin parametirlere uygun render elemeyi deyirik.
+-optimizeSpeed text-in suretli render olmagini daha ustunluk verir(font-size 20 px-den azdirsa);
+-optimizeLegibility render zamani oxunagliga daha ustunluk verir neyiki suret ve geometric position;
+-geometricPrecision render zamani text-in geometric degigliyine ustunluk verir(font-size 20 px-den coxdursa);

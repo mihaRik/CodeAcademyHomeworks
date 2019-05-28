@@ -1,0 +1,3 @@
+Clipping path hasisa mueyyen cercivenin icinde sekli ve ye hansisa bir data gostermek.yeni ki giragaa cixan hisseler gorsenmir.
+Clip path-i istifade etmek ucun bele yazirlar.
+Clip path vasitesi ile animasiyada yarada bilerik.(https://css-tricks.com/clipping-masking-css/)

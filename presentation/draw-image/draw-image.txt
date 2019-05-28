@@ -1,0 +1,6 @@
+drawImage methodu bize canvas obyektimizin icinde sekil cekmeye imkan verir.
+O 3-dene parametir gebul edir:
+1)source fayl;
+2)x coordinati;
+3)y coordinati;
+https://www.w3schools.com/tags/tryit.asp?filename=tryhtml5_canvas_drawimage_video

@@ -1,0 +1,7 @@
+C:\Users\mihaRik\Desktop\homework\Hotel\Hotel\Hotel\bin\Debug\Hotel.exe.config
+C:\Users\mihaRik\Desktop\homework\Hotel\Hotel\Hotel\bin\Debug\Hotel.exe
+C:\Users\mihaRik\Desktop\homework\Hotel\Hotel\Hotel\bin\Debug\Hotel.pdb
+C:\Users\mihaRik\Desktop\homework\Hotel\Hotel\Hotel\obj\Debug\Hotel.csprojAssemblyReference.cache
+C:\Users\mihaRik\Desktop\homework\Hotel\Hotel\Hotel\obj\Debug\Hotel.csproj.CoreCompileInputs.cache
+C:\Users\mihaRik\Desktop\homework\Hotel\Hotel\Hotel\obj\Debug\Hotel.exe
+C:\Users\mihaRik\Desktop\homework\Hotel\Hotel\Hotel\obj\Debug\Hotel.pdb

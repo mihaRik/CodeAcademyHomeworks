@@ -1,0 +1,7 @@
+C:\Users\mihaRik\Desktop\teacherTask\15-November-2018-TeacherTask\15-November-2018-TeacherTask\bin\Debug\15-November-2018-TeacherTask.exe.config
+C:\Users\mihaRik\Desktop\teacherTask\15-November-2018-TeacherTask\15-November-2018-TeacherTask\bin\Debug\15-November-2018-TeacherTask.exe
+C:\Users\mihaRik\Desktop\teacherTask\15-November-2018-TeacherTask\15-November-2018-TeacherTask\bin\Debug\15-November-2018-TeacherTask.pdb
+C:\Users\mihaRik\Desktop\teacherTask\15-November-2018-TeacherTask\15-November-2018-TeacherTask\obj\Debug\15-November-2018-TeacherTask.csprojAssemblyReference.cache
+C:\Users\mihaRik\Desktop\teacherTask\15-November-2018-TeacherTask\15-November-2018-TeacherTask\obj\Debug\15-November-2018-TeacherTask.csproj.CoreCompileInputs.cache
+C:\Users\mihaRik\Desktop\teacherTask\15-November-2018-TeacherTask\15-November-2018-TeacherTask\obj\Debug\15-November-2018-TeacherTask.exe
+C:\Users\mihaRik\Desktop\teacherTask\15-November-2018-TeacherTask\15-November-2018-TeacherTask\obj\Debug\15-November-2018-TeacherTask.pdb

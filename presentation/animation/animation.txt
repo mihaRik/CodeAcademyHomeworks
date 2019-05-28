@@ -1,0 +1,2 @@
+Animasiya bir obyektin deyismesine deyirler.
+Biz bir obyekti animasiya etmek isteyirikse onun baslangic ve bitme nogteleri olmalidir.
